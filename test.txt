@@ -1,0 +1,47 @@
+QUESTION1
+1) by checking the domain server on the gmail adress if it matches the original agency beign desguised as.
+2) by looking up the domain name differently by using dns lookup.
+3) by looking for the inclussion of urgency in the mail (e.g  Treat as urgent as possible withing a perticular period of 
+time.)
+4) checking more information on the domain by using whois
+
+QUESTION 2
+1) Spear phishing litterally  means sending  phinshing mails by immitating a trusted
+ entity know by the reciever of the mail in other for them to reveal sensitive information like login credentials and co.
+while normal phishing does not neccessarily have  to disguised as a known entity by the target.
+
+QUESTION 3
+1) The attacker will first gather information about his/her terget (reconiciance)
+2) The attacker will then create a phishing mail and send it out to the terget and wait for a response
+3) After the terget taking the bait the attacker will have its hand on the sensitive informations of the terget and will
+ use it for whatever he dims fit with it.
+
+QUESTION4
+1) Since humanbeign is the weakest link in technology security, its highly required that the the organization educate its 
+employee on how to sight a phishing attack and what to do in such situation.
+
+QUESTION5
+1) BY beign used ecthically
+
+QUESTION 6
+1) Passive reconnaisance simply means gathering informationabout an organisattion passivelly  without been inside
+ the organisation ( target) e.g byusing whois
+2)active simple means gathering information about a target activelly through an insider in the organisation or 
+the organisation
+
+QUESTION 7 
+1) SETOOLS Can be use to gather sensitive information like login credentials during reconnaisance phase.
+
+QUESTION 8
+1) site cloner
+2) web template
+3) mass mailer
+4) gophishing
+5) pyphisher
+
+QUESTION 9
+By using IDS ( Intrussion dectection system ) and IPS ( Intrusion preventive system).
+
+QUESTION 10
+1) have forgotten
+

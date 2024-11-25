@@ -1,0 +1,6 @@
+1) Encryption code for gpg = gpg --symmetric --cipher-algo CAMELLIA128 filename.txt
+2) Decryption code for gpg = gpg --output original_message.txt --decrypt filename.txt.gpg
+3) Code to create file = (echo content) > filename.txt
+4) Code to get the whole algorithem of jtrp = john --list=formats
+5) Code to crack passwd on jtrp = john --format=Raw-MD5 --wordlist=rockyou.txt file.txt
+6) Code for encrption on openssl = openssl sha256 -hex -mac HMAC -macopt key:<key> order.txt
